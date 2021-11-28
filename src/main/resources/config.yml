@@ -1,0 +1,9 @@
+storage: "mongo" # to use mongo database enter mongo to use flatfile enter flatfile
+mongo:
+  host: "bx9tpkcozcatusp-mongodb.services.clever-cloud.com"
+  port: 27017
+  auth:
+    database: "bx9tpkcozcatusp"
+    user: "utxborzqafcwcjczej7n"
+    password: "cMO9N3xDSKkX9p8mN256"
+
